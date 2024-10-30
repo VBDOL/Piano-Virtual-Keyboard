@@ -20,7 +20,7 @@ Este é um projeto de **Teclado Virtual** desenvolvido em HTML, CSS e JavaScript
 
 ## 📂 Estrutura do Projeto
 
-```plaintext
+
 |-- src
 |   |-- assets
 |       |-- favicon
