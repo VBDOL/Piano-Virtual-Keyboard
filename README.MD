@@ -1,23 +1,26 @@
 # Virtual Keyboard 🎹
 
-Este é um projeto de Teclado Virtual desenvolvido em HTML, CSS e JavaScript, inspirado em pianos digitais. A aplicação permite ao usuário tocar notas musicais diretamente no navegador, ajustar o volume e alternar entre a visualização das teclas.
+Este é um projeto de **Teclado Virtual** desenvolvido em HTML, CSS e JavaScript, inspirado em pianos digitais. A aplicação permite ao usuário tocar notas musicais diretamente no navegador, ajustar o volume e alternar entre a visualização das teclas.
 
-#📸 Demonstração
-
+## 📸 Demonstração
 <img src="/src/image/virtual-keyboard.JPG" alt="Imagem do Teclado Virtual" width="600">
-<br>
-🚀 Funcionalidades
-Toque de Notas: Reproduza sons ao clicar nas teclas com o mouse ou ao pressionar as teclas correspondentes no teclado.
-Controle de Volume: Ajuste o volume usando o controle deslizante.
-Exibir/Ocultar Teclas: Opção para mostrar ou esconder os nomes das teclas no teclado.
-🛠️ Tecnologias Utilizadas
-HTML5: Estrutura da aplicação
-CSS3: Estilização visual
-JavaScript: Funcionalidade do teclado virtual
-Fontes Google: Poppins para uma tipografia atraente
-📂 Estrutura do Projeto
-plaintext
-Copiar código
+
+## 🚀 Funcionalidades
+
+- **Toque de Notas**: Reproduza sons ao clicar nas teclas com o mouse ou ao pressionar as teclas correspondentes no teclado.
+- **Controle de Volume**: Ajuste o volume usando o controle deslizante.
+- **Exibir/Ocultar Teclas**: Opção para mostrar ou esconder os nomes das teclas no teclado.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estrutura da aplicação
+- **CSS3**: Estilização visual
+- **JavaScript**: Funcionalidade do teclado virtual
+- **Fontes Google**: [Poppins](https://fonts.google.com/) para uma tipografia atraente
+
+## 📂 Estrutura do Projeto
+
+```plaintext
 |-- src
 |   |-- assets
 |       |-- favicon
@@ -31,6 +34,7 @@ Copiar código
 |       |-- main.css
 |-- index.html
 |-- README.md
+
 📜 Arquivos Principais
 index.html: Estrutura principal do teclado virtual.
 main.css: Estilos personalizados para o teclado e componentes.
@@ -56,5 +60,3 @@ Use o controle deslizante para ajustar o volume e a caixa de seleção para exib
 
 📝 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
-
-
