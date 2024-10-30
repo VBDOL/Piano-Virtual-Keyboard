@@ -1,8 +1,11 @@
 # Virtual Keyboard 🎹
+
 Este é um projeto de Teclado Virtual desenvolvido em HTML, CSS e JavaScript, inspirado em pianos digitais. A aplicação permite ao usuário tocar notas musicais diretamente no navegador, ajustar o volume e alternar entre a visualização das teclas.
 
-📸 Demonstração
+#📸 Demonstração
+
 <img src="/src/image/virtual-keyboard.JPG" alt="Imagem do Teclado Virtual" width="600">
+<br>
 🚀 Funcionalidades
 Toque de Notas: Reproduza sons ao clicar nas teclas com o mouse ou ao pressionar as teclas correspondentes no teclado.
 Controle de Volume: Ajuste o volume usando o controle deslizante.
