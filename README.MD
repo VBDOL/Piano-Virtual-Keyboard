@@ -40,14 +40,6 @@ index.html: Estrutura principal do teclado virtual.
 main.css: Estilos personalizados para o teclado e componentes.
 engine.js: Lógica para reproduzir notas, controle de volume e exibição das teclas.
 
-##👨‍💻 Desenvolvedor
-Victor B. O. Leme
-GitHub
-LinkedIn
-Alura
-DIO
-
-
 ##📅 Data de Criação
 30 de Outubro de 2024
 
