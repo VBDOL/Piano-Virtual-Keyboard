@@ -35,20 +35,23 @@ Este é um projeto de **Teclado Virtual** desenvolvido em HTML, CSS e JavaScript
 |-- index.html
 |-- README.md
 
-📜 Arquivos Principais
+##📜 Arquivos Principais
 index.html: Estrutura principal do teclado virtual.
 main.css: Estilos personalizados para o teclado e componentes.
 engine.js: Lógica para reproduzir notas, controle de volume e exibição das teclas.
-👨‍💻 Desenvolvedor
+
+##👨‍💻 Desenvolvedor
 Victor B. O. Leme
 GitHub
 LinkedIn
 Alura
 DIO
-📅 Data de Criação
+
+
+##📅 Data de Criação
 30 de Outubro de 2024
 
-🔧 Como Usar
+##🔧 Como Usar
 Clone o repositório:
 
 bash
@@ -58,5 +61,5 @@ Abra o arquivo index.html em seu navegador.
 
 Use o controle deslizante para ajustar o volume e a caixa de seleção para exibir ou ocultar os nomes das teclas.
 
-📝 Licença
+##📝 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
